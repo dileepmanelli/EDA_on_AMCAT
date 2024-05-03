@@ -40,11 +40,9 @@ Contributions to the project are welcome! If you would like to contribute, pleas
 - Update the documentation as needed.
 - Submit a pull request with a clear description of your changes.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+=
 
 ## Contact
 
-For questions or inquiries about the project, please contact [projectmaintainer@example.com](mailto:projectmaintainer@example.com).
+For questions or inquiries about the project, please contact dileepmanelli@gmail.com
 
